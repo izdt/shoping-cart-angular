@@ -1,0 +1,6 @@
+D:\Projects\Node\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll.config
+D:\Projects\Node\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+D:\Projects\Node\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+D:\Projects\Node\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+D:\Projects\Node\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+D:\Projects\Node\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
